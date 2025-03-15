@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script>
+    alert("hi little princess?")
+    alert("how have you been?")
+    alert("i've been missed you for a long time")
+    alert("adek masih marah ya, pasti?")
+    alert("maaf mas nyebelin, ya?")
+    alert(happy 49th mensiversary, little princess")
+    alert("Sayangku, happy 49th mensiversary. I'm so glad that I can celebrate our 49th mensiversary. Even words couldn't describe anymore.")
+    alert("I cherish you a lots, little princess.")
+    alert("from the one adored you the most, yours, forever hubby.")
+</head>
+
+<body>
+  Hello world
+  <script src="script.js"></script>
+</body>
+
+</html>
